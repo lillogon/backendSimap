@@ -1,0 +1,45 @@
+# =========================
+# Build & Dependências
+# =========================
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# =========================
+# IDEs
+# =========================
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# VS Code
+.vscode/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Arquivos temporários
+# =========================
+*.class
+*.jar
+*.war
+*.ear
+
+# =========================
+# Sistema Operacional
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Configurações Sensíveis
+# =========================
+application.properties
